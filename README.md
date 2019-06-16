@@ -1,3 +1,3 @@
 # TEST
 
-## Project GitHub
+## PROJECT GitHub
